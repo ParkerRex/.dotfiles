@@ -1,0 +1,13 @@
+color = ''
+project-name = 'default'
+[default]
+account_id = 'acct_1JEkO6CgIdJ1QglP'
+device_name = 'rex'
+display_name = 'Rex Ventures'
+live_mode_api_key = 'rk_live_***********************************************************************************************RnYV'
+live_mode_key_expires_at = '2023-12-09'
+live_mode_pub_key = 'pk_live_51JEkO6CgIdJ1QglPSnJ9fsbN7SEB0wrIpNXcK7QMg2tTf7UbPxW1Lh1wQIHGJXCJf47dAa7DGcNu0y4OORWgwLHM00GT9YzM64'
+test_mode_api_key = 'rk_test_51JEkO6CgIdJ1QglPzzjFib7NkNu9RXxv3eMZoKQ7i0JsziKU53gRLV55L3QRVvlk5zQRgCohItZH1Ke9lGQZk4tU00zL19WIfG'
+test_mode_key_expires_at = '2023-12-09'
+test_mode_pub_key = 'pk_test_51JEkO6CgIdJ1QglPbQJly2tcAQjM5yC34PxOeIW774RcMowkXqk4usPXNYZL4lRPIORy5tPzeHrnxeq0Gkf1sxUg00KQcANw5v'
+
